@@ -1,0 +1,12 @@
+/*styles*/
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+.text {
+    text-align: center;
+    margin-top: 30%;
+    font-size: 32px;
+}
